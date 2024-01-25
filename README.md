@@ -11,7 +11,7 @@ He hits all your serves, so you have to hit a certain number of his serves to wi
 #### Second difficulty level: 20 balls
 #### Third difficulty level: 30 balls
 
-Have a good game!
+## Have a good game!
 
 ## RUS version
 
@@ -25,4 +25,4 @@ Have a good game!
 #### Второй уровень сложности: 20 мячей
 #### Третий уровень сложности: 30 мячей
 
-Желаем удачной игры!
+## Желаем удачной игры!
